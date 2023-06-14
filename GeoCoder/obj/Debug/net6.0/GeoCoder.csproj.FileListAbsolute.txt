@@ -1,0 +1,13 @@
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\bin\Debug\net6.0\Apikey.ini
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\bin\Debug\net6.0\GeoCoder.deps.json
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\bin\Debug\net6.0\GeoCoder.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\bin\Debug\net6.0\GeoCoder.pdb
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\obj\Debug\net6.0\GeoCoder.csproj.AssemblyReference.cache
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\obj\Debug\net6.0\GeoCoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\obj\Debug\net6.0\GeoCoder.AssemblyInfoInputs.cache
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\obj\Debug\net6.0\GeoCoder.AssemblyInfo.cs
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\obj\Debug\net6.0\GeoCoder.csproj.CoreCompileInputs.cache
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\obj\Debug\net6.0\GeoCoder.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\obj\Debug\net6.0\refint\GeoCoder.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\obj\Debug\net6.0\GeoCoder.pdb
+C:\Users\zubas\Source\Repos\WeatherApp2\GeoCoder\obj\Debug\net6.0\ref\GeoCoder.dll

@@ -1,0 +1,15 @@
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\bin\Debug\net6.0\Models.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\bin\Debug\net6.0\Models.pdb
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CopyComplete
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Users\zubas\Source\Repos\WeatherApp2\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll

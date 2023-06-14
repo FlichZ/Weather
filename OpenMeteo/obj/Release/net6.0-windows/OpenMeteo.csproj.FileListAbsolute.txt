@@ -1,0 +1,17 @@
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\bin\Release\net6.0-windows\OpenMeteo.deps.json
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\bin\Release\net6.0-windows\OpenMeteo.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\bin\Release\net6.0-windows\OpenMeteo.pdb
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\bin\Release\net6.0-windows\Interfaces.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\bin\Release\net6.0-windows\Models.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\bin\Release\net6.0-windows\Interfaces.pdb
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\bin\Release\net6.0-windows\Models.pdb
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\OpenMeteo.csproj.AssemblyReference.cache
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\OpenMeteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\OpenMeteo.AssemblyInfoInputs.cache
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\OpenMeteo.AssemblyInfo.cs
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\OpenMeteo.csproj.CoreCompileInputs.cache
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\OpenMeteo.csproj.CopyComplete
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\OpenMeteo.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\refint\OpenMeteo.dll
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\OpenMeteo.pdb
+C:\Users\zubas\Source\Repos\WeatherApp2\OpenMeteo\obj\Release\net6.0-windows\ref\OpenMeteo.dll
